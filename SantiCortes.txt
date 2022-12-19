@@ -1,3 +1,7 @@
 Hello my name is Santiago Cortés
 I like play the guitar
+<<<<<<< HEAD
 I live in a very little village. His name is Higueruelas
+=======
+I live in Higueruelas, Valencia.
+>>>>>>> a11b5e8a5489d71e20bdd1edfee9cc119b182d95
